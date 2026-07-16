@@ -8,14 +8,10 @@
   ✂️ Pinching the vulnerability right where it hurts. ✂️
 </p>
 <div align="center">
-  <h3>NOW STEAMING🦀♨️, COMING SOON!</h3>
+  <h3>NOW STEAMING 🦀♨️, COMING SOON!</h3>
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
   <img src="./ddhol.png" width="50%" alt="ddhol"/>
