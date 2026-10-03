@@ -56,7 +56,7 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/ocr-receipt-text-detection">3. [OCR] Receipt Text Detection</a></h3>
       <p>AI 대회: 영수증 글자 검출 🏆 1st Place (Solo)</p>
       <p>
-        <img src="https://img.shields.io/badge/DBNet%2B%2B-ffffff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DBNet%2B%2B-d3d3d3?style=flat-square"/>
         <img src="https://img.shields.io/badge/HRNet--W44-ffffff?style=flat-square"/>
         <img src="https://img.shields.io/badge/ConvNeXt--Base-ffffff?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
@@ -73,10 +73,11 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/cv-document-type-classification">4. [CV] Document Type Classification</a></h3>
       <p>AI 대회: 문서 타입 분류 🏆 1st Place (Team Lead)</p>
       <p>
-        <img src="https://img.shields.io/badge/MaxViT--Base-FFFFFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MaxViT--Base-d3d3d?style=flat-square"/>
         <img src="https://img.shields.io/badge/ConvNeXt%20V2--Base-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/DeiT%20III--Base-FFFFFF?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
         <img src="https://img.shields.io/badge/Albumentations-3D6FB6?style=flat-square"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -98,6 +99,7 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/MBR%20Decoding-FFFFFF?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
       </p>
@@ -114,6 +116,7 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/GPT--4o--mini-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/BM25-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/RRF-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
