@@ -77,7 +77,6 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/ConvNeXt%20V2--Base-dcdcdc?style=flat-square"/>
         <img src="https://img.shields.io/badge/DeiT%20III--Base-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HugginFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
         <img src="https://img.shields.io/badge/Albumentations-3D6FB6?style=flat-square"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -98,7 +97,7 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/Stratified%20K--Fold-dcdcdc?style=flat-square"/>
         <img src="https://img.shields.io/badge/MBR%20Decoding-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HugginFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -118,7 +117,7 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/RRF-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
     </td>
