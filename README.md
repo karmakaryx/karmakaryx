@@ -10,7 +10,7 @@
 > 이 계정의 모든 저장소(repo)는 Fork 없이 100% 직접 기획하고 개발한 프로젝트들입니다.<br>
 All repositories here are original projects, planned and developed by me. Zero forks.
 
----
+<br>
 
 <div align="center">
   <h3>🚀 Projects & AI Competitions 🏆</h3>
@@ -77,7 +77,6 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/ConvNeXt%20V2--Base-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/DeiT%20III--Base-FFFFFF?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
         <img src="https://img.shields.io/badge/Albumentations-3D6FB6?style=flat-square"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -99,7 +98,6 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/MBR%20Decoding-FFFFFF?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
       </p>
@@ -116,7 +114,6 @@ All repositories here are original projects, planned and developed by me. Zero f
         <img src="https://img.shields.io/badge/GPT--4o--mini-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/BM25-FFFFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/RRF-FFFFFF?style=flat-square"/><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
@@ -189,4 +186,4 @@ All repositories here are original projects, planned and developed by me. Zero f
   </tr>
 </table>
 
-## 🛠️ Skills
+### 🛠️ Skills
