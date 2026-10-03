@@ -56,9 +56,9 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/ocr-receipt-text-detection">3. [OCR] Receipt Text Detection</a></h3>
       <p>AI 대회: 영수증 글자 검출 🏆 1st Place (Solo)</p>
       <p>
-        <img src="https://img.shields.io/badge/DBNet%2B%2B-d3d3d3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/HRNet--W44-ffffff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ConvNeXt--Base-ffffff?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/DBNet%2B%2B-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HRNet--W44-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ConvNeXt--Base-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorchLightning&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hydra-1C6EA4?style=flat-square&logo=Meta&logoColor=white"/>
@@ -73,11 +73,11 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/cv-document-type-classification">4. [CV] Document Type Classification</a></h3>
       <p>AI 대회: 문서 타입 분류 🏆 1st Place (Team Lead)</p>
       <p>
-        <img src="https://img.shields.io/badge/MaxViT--Base-d3d3d3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ConvNeXt%20V2--Base-d3d3d3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/DeiT%20III--Base-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/MaxViT--Base-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ConvNeXt%20V2--Base-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DeiT%20III--Base-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HugginFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
         <img src="https://img.shields.io/badge/Albumentations-3D6FB6?style=flat-square"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -94,11 +94,11 @@ All repositories here are original projects, planned and developed by me. Zero f
       <p>AI 대회: 일상 대화 요약 🏆 1st Place (Team Lead)</p>
       <p>
         <img src="https://img.shields.io/badge/KoBART-dcdcdc?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Solar%20API-c0c0c0?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stratified%20K--Fold-d3d3d3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MBR%20Decoding-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/Solar%20API-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stratified%20K--Fold-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MBR%20Decoding-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HugginFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=black"/>
@@ -111,11 +111,11 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/ir-science-rag-pipeline">6. [IR] Science Rag Pipeline</a></h3>
       <p>AI 대회: 과학 지식 질의응답 시스템 🥈 2nd Place (Solo)</p>
       <p>
-        <img src="https://img.shields.io/badge/KR--SBERT-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/bge--reranker-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GPT--4o--mini-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/BM25-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RRF-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/KR--SBERT-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/bge--reranker-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GPT--4o--mini-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/BM25-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/RRF-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black"/>
@@ -132,10 +132,10 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">7. [RecSys] Commerce Purchase Prediction</a></h3>
       <p>AI 대회: 커머스 상품 구매 예측 🏆 1st Place (Solo)</p>
       <p>
-        <img src="https://img.shields.io/badge/SASRec-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/XGBoost-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LightGBM-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/CatBoost-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/SASRec-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/XGBoost-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LightGBM-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CatBoost-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -150,10 +150,10 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/ml-house-price-prediction">8. [ML] House Price Prediction</a></h3>
       <p>AI 대회: 아파트 실거래가 예측 🥈 2nd Place (Solo)</p>
       <p>
-        <img src="https://img.shields.io/badge/LightGBM-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/5--Fold-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/K--Means-FFFFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Log%20Transform-FFFFFF?style=flat-square"/><br>
+        <img src="https://img.shields.io/badge/LightGBM-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/5--Fold-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/K--Means-dcdcdc?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Log%20Transform-dcdcdc?style=flat-square"/><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
