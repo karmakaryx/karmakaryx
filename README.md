@@ -10,7 +10,7 @@
 > 이 계정의 모든 저장소(repo)는 Fork 없이 100% 직접 기획하고 개발한 프로젝트들입니다.<br>
 All repositories here are original projects, planned and developed by me. Zero forks.
 
-<br>
+---
 
 <div align="center">
   <h3>🚀 Projects & AI Competitions 🏆</h3>
@@ -20,7 +20,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/follow-the-orbit-rabbit">
-        <img src="https://via.placeholder.com/600x300?text=Project+1+Preview" width="100%" alt="ftor"/>
+        <img src="./assets/place.jpg" width="100%" alt="ftor"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/follow-the-orbit-rabbit">1. [MLOps] Follow The Orbit Rabbit</a></h3>
       <p>Space-Track TLE 수집 → 학습 → 서빙 → 알림<br>end-to-end 파이프라인</p>
@@ -34,7 +34,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/kattpaw">
-        <img src="https://via.placeholder.com/600x300?text=Project+2+Preview" width="100%" alt="kattpaw"/>
+        <img src="./assets/place.jpg" width="100%" alt="kattpaw"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/kattpaw">2. [AI Agent] KattPaw</a></h3>
       <p>AI 대화·코드 변경·실행 로그를 스냅샷으로 묶어 버전 관리하는<br>브라우저 기반 AI 에이전트 IDE</p>
@@ -51,7 +51,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ocr-receipt-text-detection">
-        <img src="https://via.placeholder.com/600x300?text=Project+3+Preview" width="100%" alt="ocr"/>
+        <img src="./assets/place.jpg" width="100%" alt="ocr"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ocr-receipt-text-detection">3. [OCR] Receipt Text Detection</a></h3>
       <p>AI 대회: 영수증 글자 검출 🏆 1st Place (Solo)</p>
@@ -68,7 +68,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/cv-document-type-classification">
-        <img src="https://via.placeholder.com/600x300?text=Project+4+Preview" width="100%" alt="cv"/>
+        <img src="./assets/place.jpg" width="100%" alt="cv"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/cv-document-type-classification">4. [CV] Document Type Classification</a></h3>
       <p>AI 대회: 문서 타입 분류 🏆 1st Place (Team Lead)</p>
@@ -87,7 +87,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/nlp-dialogue-summarization">
-        <img src="https://via.placeholder.com/600x300?text=Project+3+Preview" width="100%" alt="nlp"/>
+        <img src="./assets/place.jpg" width="100%" alt="nlp"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/nlp-dialogue-summarization">5. [NLP] Dialogue Summarization</a></h3>
       <p>AI 대회: 일상 대화 요약 🏆 1st Place (Team Lead)</p>
@@ -104,7 +104,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ir-science-rag-pipeline">
-        <img src="https://via.placeholder.com/600x300?text=Project+4+Preview" width="100%" alt="rag"/>
+        <img src="./assets/place.jpg" width="100%" alt="rag"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ir-science-rag-pipeline">6. [IR] Science Rag Pipeline</a></h3>
       <p>AI 대회: 과학 지식 질의응답 시스템 🥈 2nd Place (Solo)</p>
@@ -125,7 +125,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">
-        <img src="https://via.placeholder.com/600x300?text=Project+3+Preview" width="100%" alt="recsys"/>
+        <img src="./assets/place.jpg" width="100%" alt="recsys"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">7. [RecSys] Commerce Purchase Prediction</a></h3>
       <p>AI 대회: 커머스 상품 구매 예측 🏆 1st Place (Solo)</p>
@@ -143,7 +143,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ml-house-price-prediction">
-        <img src="https://via.placeholder.com/600x300?text=Project+4+Preview" width="100%" alt="ml"/>
+        <img src="./assets/place.jpg" width="100%" alt="ml"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ml-house-price-prediction">8. [ML] House Price Prediction</a></h3>
       <p>AI 대회: 아파트 실거래가 예측 🥈 2nd Place (Solo)</p>
@@ -167,20 +167,22 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/kkokke">
-        <img src="" width="100%" alt="kkokke"/>
+        <img src="./assets/place.jpg" width="100%" alt="kkokke"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/kkokke">kkokke</a></h3>
       <p>개발중</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       </p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">
-        <img src="" width="100%" alt="ddhol"/>
+        <img src="./assets/place.jpg" width="100%" alt="ddhol"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
       <p>개발중</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       </p>
     </td>
   </tr>
