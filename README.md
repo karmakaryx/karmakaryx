@@ -168,12 +168,12 @@ All repositories here are original projects, planned and developed by me. Zero f
     <td width="50%" align="center">
       <a href="./assets/kkokke.png"><img src="./assets/kkokke.png" width="1200" alt="kkokke"/></a>
       <h3><a href="https://github.com/karmakaryx/kkokke">kkokke</a></h3>
-      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)<br></p>
+      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)<br><br></p>
     </td>
     <td width="50%" align="center">
       <a href="./assets/ddhol.png"><img src="./assets/ddhol.png" width="1200" alt="ddhol"/></a>
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
-      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)<br></p>
+      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)<br><br></p>
     </td>
   </tr>
 </table>
@@ -181,10 +181,10 @@ All repositories here are original projects, planned and developed by me. Zero f
 ## 🛠️ Skills & Tools
 <h3>[💻 Languages & Markup]</h3>
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <a href="#"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C" height="60"/></a>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/>
+  <img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
