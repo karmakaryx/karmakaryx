@@ -2,7 +2,7 @@
   <img src="./assets/wouldyou_ttokki.gif" width="20%" alt="wouldyou_ttokki"/>
   <h3>I'm Karyx💫 (Irene Haan) • AI Engineer (ex-SW Engineer)</h3>
   <a href="mailto:karmakaryx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-karmakaryx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-karmakaryx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
 </div>
 <br>
