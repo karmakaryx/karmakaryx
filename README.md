@@ -2,7 +2,7 @@
   <img src="./assets/wouldyou_ttokki.gif" width="20%" alt="wouldyou_ttokki"/>
   <h3>I'm Karyx💫 (Irene Haan) • AI Engineer (ex-SW Engineer)</h3>
   <a href="mailto:karmakaryx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-karmakaryx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Gmail-karmakaryx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </div>
 <br>
@@ -182,9 +182,9 @@ All repositories here are original projects, planned and developed by me. Zero f
 <h3>[💻 Languages & Markup]</h3>
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="26"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <a href="#"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C" height="26"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C" height="60"/></a>
   <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
