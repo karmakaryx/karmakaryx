@@ -166,29 +166,25 @@ All repositories here are original projects, planned and developed by me. Zero f
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/karmakaryx/kkokke">
-        <img src="./assets/kkokke.png" width="1200" alt="kkokke"/>
-      </a>
+      <a href="./assets/kkokke.png"><img src="./assets/kkokke.png" width="1200" alt="kkokke"/></a>
       <h3><a href="https://github.com/karmakaryx/kkokke">kkokke</a></h3>
-      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)</p>
+      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)<br></p>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">
-        <img src="./assets/ddhol.png" width="1200" alt="ddhol"/>
-      </a>
+      <a href="./assets/ddhol.png"><img src="./assets/ddhol.png" width="1200" alt="ddhol"/></a>
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
-      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)</p>
+      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)<br></p>
     </td>
   </tr>
 </table>
 
 ## 🛠️ Skills & Tools
-<h4>[💻 Languages & Markup]</h4>
+<h3>[💻 Languages & Markup]</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/>
-  <img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="26"/>
+  <a href="#"><img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JSP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-03599C?style=flat-square&logo=c&logoColor=white" alt="C" height="26"/></a>
   <img src="https://img.shields.io/badge/C++-9C033A?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -204,7 +200,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
-<h4>[🎨 Frontend & UI/UX]</h4>
+<h3>[🎨 Frontend & UI/UX]</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
@@ -219,7 +215,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress"/>
 </p>
 
-<h4>[⚙️ Backend & Frameworks]</h4>
+<h3>[⚙️ Backend & Frameworks]</h3>
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -233,7 +229,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
-<h4>[🗄️ Database & Search]</h4>
+<h3>[🗄️ Database & Search]</h3>
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -249,7 +245,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Orange-FF6600?style=flat-square" alt="Orange"/>
 </p>
 
-<h4>[🤖 AI & Machine Learning]</h4>
+<h3>[🤖 AI & Machine Learning]</h3>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning"/>
@@ -270,7 +266,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-<h4>[☁️ DevOps, Cloud & Tools]</h4>
+<h3>[☁️ DevOps, Cloud & Tools]</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -297,7 +293,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 </p>
 
-<h4>[📱 Mobile & Embedded]</h4>
+<h3>[📱 Mobile & Embedded]</h3>
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Android-34A853.svg?style=flat-square&logo=android&logoColor=white" alt="Android"/>
@@ -307,7 +303,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 
-<h4>[🏢 Enterprise & SI Solutions (Batch, I/F, etc.)]</h4>
+<h3>[🏢 Enterprise & SI Solutions (Batch, I/F, etc.)]</h3>
 <p>
   <img src="https://img.shields.io/badge/EAI-0F766E?style=flat-square" alt="EAI"/>
   <img src="https://img.shields.io/badge/FEP-0052CC?style=flat-square" alt="FEP"/>
@@ -325,7 +321,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/JEUS-003366.svg?style=flat-square" alt="JEUS"/>
 </p>
 
-<h4>[🎬 Design & Multimedia]</h4>
+<h3>[🎬 Design & Multimedia]</h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
