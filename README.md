@@ -51,7 +51,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ocr-receipt-text-detection">
-        <img src="./assets/place.jpg" width="1000" alt="ocr"/>
+        <img src="./assets/card3.png" width="1200" alt="ocr"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ocr-receipt-text-detection">3. [OCR] Receipt Text Detection</a></h3>
       <p>AI 대회: 영수증 글자 검출 🏆 1st Place (Solo)</p>
@@ -68,7 +68,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/cv-document-type-classification">
-        <img src="./assets/place.jpg" width="1000" alt="cv"/>
+        <img src="./assets/card4.png" width="1200" alt="cv"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/cv-document-type-classification">4. [CV] Document Type Classification</a></h3>
       <p>AI 대회: 문서 타입 분류 🏆 1st Place (Team Lead)</p>
@@ -272,8 +272,9 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/rekordbox-000000?style=flat-square&logo=pioneerdj&logoColor=white" alt="rekordbox"/>
 </p>
 
+<h3>👇 (CLICK TO EXPAND)</h3>
 <details>
-<summary><b>Legacy & Enterprise (15+ yrs):</b> Spring · Oracle · SI/Enterprise · Full-stack · Mobile <b>(CLICK TO EXPAND)</b></summary>
+<summary><b>Legacy & Enterprise (15+ yrs):</b> Spring · Oracle · SI/Enterprise · Full-stack · Mobile</summary>
 <h3>[💻 Languages & Markup]</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -313,6 +314,7 @@ All repositories here are original projects, planned and developed by me. Zero f
 <h3>[🗄️ DBMS & Tools]</h3>
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
@@ -362,3 +364,5 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 </details>
+
+<br><br>
