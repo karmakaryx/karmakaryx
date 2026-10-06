@@ -87,7 +87,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/nlp-dialogue-summarization">
-        <img src="./assets/place.jpg" width="1000" alt="nlp"/>
+        <img src="./assets/card5.png" width="1200" alt="nlp"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/nlp-dialogue-summarization">5. [NLP] Dialogue Summarization</a></h3>
       <p>AI 대회: 일상 대화 요약 🏆 1st Place (Team Lead)</p>
@@ -104,7 +104,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ir-science-rag-pipeline">
-        <img src="./assets/place.jpg" width="1000" alt="rag"/>
+        <img src="./assets/card6.png" width="1200" alt="rag"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ir-science-rag-pipeline">6. [IR] Science Rag Pipeline</a></h3>
       <p>AI 대회: 과학 지식 질의응답 시스템 🥈 2nd Place (Solo)</p>
@@ -168,12 +168,12 @@ All repositories here are original projects, planned and developed by me. Zero f
     <td width="50%" align="center">
       <a href="./assets/kkokke.png"><img src="./assets/kkokke.png" width="1200" alt="kkokke"/></a>
       <h3><a href="https://github.com/karmakaryx/kkokke">kkokke</a></h3>
-      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)<br><br></p>
+      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)</p>
     </td>
     <td width="50%" align="center">
       <a href="./assets/ddhol.png"><img src="./assets/ddhol.png" width="1200" alt="ddhol"/></a>
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
-      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)<br><br></p>
+      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)</p>
     </td>
   </tr>
 </table>
@@ -365,4 +365,4 @@ All repositories here are original projects, planned and developed by me. Zero f
 </p>
 </details>
 
-<br><br>
+<br>
