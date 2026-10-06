@@ -20,7 +20,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/follow-the-orbit-rabbit">
-        <img src="./assets/place.jpg" width="1000" alt="ftor"/>
+        <img src="./assets/card1.png" width="1200" alt="ftor"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/follow-the-orbit-rabbit">1. [MLOps] Follow The Orbit Rabbit</a></h3>
       <p>Space-Track TLE 수집 → 학습 → 서빙 → 알림<br>end-to-end 파이프라인</p>
@@ -34,7 +34,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/kattpaw">
-        <img src="./assets/place.jpg" width="1000" alt="kattpaw"/>
+        <img src="./assets/card2.png" width="1200" alt="kattpaw"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/kattpaw">2. [AI Agent] KattPaw</a></h3>
       <p>AI 대화·코드 변경·실행 로그를 스냅샷으로 묶어 버전 관리하는<br>브라우저 기반 AI 에이전트 IDE</p>
