@@ -125,7 +125,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">
-        <img src="./assets/place.jpg" width="1000" alt="recsys"/>
+        <img src="./assets/card7.png" width="1200" alt="recsys"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">7. [RecSys] Commerce Purchase Prediction</a></h3>
       <p>AI 대회: 커머스 상품 구매 예측 🏆 1st Place (Solo)</p>
@@ -143,7 +143,7 @@ All repositories here are original projects, planned and developed by me. Zero f
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ml-house-price-prediction">
-        <img src="./assets/place.jpg" width="1000" alt="ml"/>
+        <img src="./assets/card8.png" width="1200" alt="ml"/>
       </a>
       <h3><a href="https://github.com/karmakaryx/ml-house-price-prediction">8. [ML] House Price Prediction</a></h3>
       <p>AI 대회: 아파트 실거래가 예측 🥈 2nd Place (Solo)</p>
@@ -364,5 +364,4 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 </details>
-
 <br>
