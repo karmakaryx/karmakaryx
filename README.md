@@ -5,7 +5,11 @@
     <img src="https://img.shields.io/badge/Gmail-karmakaryx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<br>
+
+---
+
+"Talk is cheap. Show me the code."&nbsp;&nbsp;— *Linus Torvalds*<br>
+"It's a complicated **engineering problem** that we haven't even begun to solve."&nbsp;&nbsp;— *Yann LeCun*
 
 > 이 계정의 모든 저장소(repo)는 Fork 없이 100% 직접 기획하고 개발한 프로젝트들입니다.<br>
 All repositories here are original projects, planned and developed by me. Zero forks.
