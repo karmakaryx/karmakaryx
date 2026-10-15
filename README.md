@@ -166,7 +166,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   </tr>
   <!-- Row 5 -->
   <tr>
-    <td width="50%" align="center" colspan="2"><h3>Up Next</h3></td>
+    <td width="100%" align="center" colspan="2"><h3>Up Next</h3></td>
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -179,6 +179,11 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
       <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)</p>
     </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="2">
+      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 Let Them Fight 🍿</a></h3>
+      <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
   </tr>
 </table>
 
@@ -211,6 +216,8 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="W&B"/>
   <img src="https://img.shields.io/badge/Hydra-1C6EA4?style=flat-square&logo=meta&logoColor=white" alt="Hydra"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/AutoGen-0081FB?style=flat-square&logo=microsoft&logoColor=white" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/Agent%20Framework-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MS Agent Framework"/>
 </p>
 
 <h3>[🗄️ Database & Search]</h3>
@@ -218,6 +225,7 @@ All repositories here are original projects, planned and developed by me. Zero f
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square&logo=database&logoColor=white" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Tavily-3860BE?style=flat-square" alt="Tavily"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
