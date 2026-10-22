@@ -166,6 +166,17 @@ All repositories here are original projects, planned and developed by me. Zero f
   </tr>
   <!-- Row 5 -->
   <tr>
+    <td width="100%" align="center" colspan="2">
+      <h3><a href="https://github.com/karmakaryx/the-walking-dead">🧟 The Walking Dead 🧟</a></h3>
+      <p>A practice project for Gymnasium & MuJoCo (Updated on Oct 21, 2026)</p>
+  </tr>
+  <tr>
+    <td width="100%" align="center" colspan="2">
+      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 Let Them Fight 🍿</a></h3>
+      <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
+  </tr>
+  <!-- Row 6 -->
+  <tr>
     <td width="100%" align="center" colspan="2"><h3>Up Next</h3></td>
   </tr>
   <tr>
@@ -179,16 +190,6 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
       <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)</p>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/the-walking-dead">🧟 The Walking Dead 🧟</a></h3>
-      <p>A practice project for Gymnasium & MuJoCo (Updated on Oct 21, 2026)</p>
-  </tr>
-  <tr>
-    <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 Let Them Fight 🍿</a></h3>
-      <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
   </tr>
 </table>
 
