@@ -167,12 +167,12 @@ All repositories here are original projects, planned and developed by me. Zero f
   <!-- Row 5 -->
   <tr>
     <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/the-walking-dead">🧟 The Walking Dead 🧟</a></h3>
+      <h3><a href="https://github.com/karmakaryx/the-walking-dead">🧟 9. The Walking Dead 🧟</a></h3>
       <p>A practice project for Gymnasium & MuJoCo (Updated on Oct 21, 2026)</p>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 Let Them Fight 🍿</a></h3>
+      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 10. Let Them Fight 🍿</a></h3>
       <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
   </tr>
   <!-- Row 6 -->
