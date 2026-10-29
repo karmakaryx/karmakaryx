@@ -172,9 +172,14 @@ All repositories here are original projects, planned and developed by me. Zero f
   </tr>
   <tr>
     <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 10. Let Them Fight 🍿</a></h3>
-      <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
+      <h3><a href="https://github.com/karmakaryx/arduino-throwback-toys">🔌 10. Arduino Throwback Toys 2015 🔌</a></h3>
+      <p>A collection of Arduino-powered hardware experiments and playful inventions from 2015</p>
   </tr>
+  <!-- <tr>
+    <td width="100%" align="center" colspan="2">
+      <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 11. Let Them Fight 🍿</a></h3>
+      <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
+  </tr> -->
   <!-- Row 6 -->
   <tr>
     <td width="100%" align="center" colspan="2"><h3>Up Next</h3></td>
