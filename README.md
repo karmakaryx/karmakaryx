@@ -187,12 +187,12 @@
     <td width="50%" align="center">
       <a href="./assets/kkokke.png"><img src="./assets/kkokke.png" width="1200" alt="kkokke"/></a>
       <h3><a href="https://github.com/karmakaryx/kkokke">kkokke</a></h3>
-      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(개발 중)</p>
+      <p>경량 보안 & 취약점 스캐너 VS Code Extension<br>(In Development)</p>
     </td>
     <td width="50%" align="center">
       <a href="./assets/ddhol.png"><img src="./assets/ddhol.png" width="1200" alt="ddhol"/></a>
       <h3><a href="https://github.com/karmakaryx/docker-donkey-harness-ollama-llama">docker-donkey-harness-ollama-llama</a></h3>
-      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(개발 중)</p>
+      <p>폐쇄망 이중 컨테이너 구조 AI 에이전트 실행 제어 프레임워크<br>(In Development)</p>
     </td>
   </tr>
 </table>
