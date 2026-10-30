@@ -12,7 +12,7 @@
 "It's a complicated **engineering problem** that we haven't even begun to solve."&nbsp;&nbsp;— *Yann LeCun*
 
 > 이 계정의 모든 저장소(repo)는 Fork 없이 100% 직접 기획하고 개발한 프로젝트들입니다.<br>
-All repositories here are original projects, planned and developed by me. Zero forks.
+> All repositories here are original projects, planned and developed by me. Zero forks.
 
 ---
 
@@ -20,7 +20,6 @@ All repositories here are original projects, planned and developed by me. Zero f
   <h3>🚀 Projects & AI Competitions 🏆</h3>
 </div>
 <table width="100%">
-  <!-- Row 1 -->
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/follow-the-orbit-rabbit">
@@ -51,7 +50,7 @@ All repositories here are original projects, planned and developed by me. Zero f
       </p>
     </td>
   </tr>
-  <!-- Row 2 -->
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/ocr-receipt-text-detection">
@@ -87,7 +86,7 @@ All repositories here are original projects, planned and developed by me. Zero f
       </p>
     </td>
   </tr>
-  <!-- Row 3 -->
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/nlp-dialogue-summarization">
@@ -125,7 +124,7 @@ All repositories here are original projects, planned and developed by me. Zero f
       </p>
     </td>
   </tr>
-  <!-- Row 4 -->
+
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/karmakaryx/rs-commerce-purchase-behavior-prediction">
@@ -164,15 +163,15 @@ All repositories here are original projects, planned and developed by me. Zero f
       </p>
     </td>
   </tr>
-  <!-- Row 5 -->
+
   <tr>
     <td width="100%" align="center" colspan="2">
       <h3><a href="https://github.com/karmakaryx/the-walking-dead">🧟 9. The Walking Dead 🧟</a></h3>
-      <p>A practice project for Gymnasium & MuJoCo (Updated on Oct 21, 2026)</p>
+      <p>A practice project for Gymnasium & MuJoCo</p>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="2">
-      <h3><a href="https://github.com/karmakaryx/arduino-throwback-toys">🔌 10. Arduino Throwback Toys 2015 🔌</a></h3>
+      <h3><a href="https://github.com/karmakaryx/arduino-throwback-toys">🔌 10. Arduino Throwback Toys (2015) 🔌</a></h3>
       <p>A collection of Arduino-powered hardware experiments and playful inventions from 2015</p>
   </tr>
   <!-- <tr>
@@ -180,7 +179,7 @@ All repositories here are original projects, planned and developed by me. Zero f
       <h3><a href="https://github.com/karmakaryx/let-them-fight">🍿 11. Let Them Fight 🍿</a></h3>
       <p>Group Chat Debate Colosseum for Multiple AI Agents (Toy Project for Fun, Since Oct 15, 2026)</p>
   </tr> -->
-  <!-- Row 6 -->
+
   <tr>
     <td width="100%" align="center" colspan="2"><h3>Up Next</h3></td>
   </tr>
